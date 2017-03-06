@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first insertion always
+=======
+first insertion 2
+>>>>>>> fe80dbc17e37fa98f7977e0abe4076dd7a8030ee
